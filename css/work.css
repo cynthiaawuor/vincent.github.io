@@ -45,10 +45,11 @@ a {
     color: lightseagreen;
 }
 
-.videos {
-    display: flex;
-    justify-content: center;
+.row {
+    display: inline-flex;
+    justify-content: space-around;
 }
+
 #videos {
     margin-top: 10px;
     margin-bottom: 5px;
